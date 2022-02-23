@@ -45,11 +45,6 @@
       "id": 4
     },
     {
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
       "name": "meu projeto 3",
       "budget": "15000",
       "category": {
@@ -59,41 +54,6 @@
       "cost": 0,
       "services": [],
       "id": 6
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 11
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 12
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 13
     }
   ],
   "categories": [
